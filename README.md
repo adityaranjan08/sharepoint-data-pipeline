@@ -1,3 +1,4 @@
+# sharepoint-data-pipeline
 
         +------------------+        +-------------------+        +----------------------+       +------------------+
         | Data Sources     |        |   Staging Layer   |        | Processing Layer     |       | Final Storage     |
